@@ -12,14 +12,14 @@ The methods are formulated based on the **variational principles of mechanics** 
 
 ## 📂 Repository Structure
 FEniCS_Elastodynamics/
-│
-├── AVI_Implicit/                      # Scripts for implicit AVI method
-│   └── (files implementing implicit integration)
-│
-├── AVI_Elastodynamics_explicit.py     # Explicit AVI implementation
-├── square_lamina_0.1.msh               # Gmsh mesh file
-├── square_lamina_0.1.xml               # FEniCS XML mesh file
-└── README.md                           # Project documentation
+-│
+-├── AVI_Implicit/                      # Scripts for implicit AVI method
+-│   └── (files implementing implicit integration)
+-│
+-├── AVI_Elastodynamics_explicit.py     # Explicit AVI implementation
+-├── square_lamina_0.1.msh               # Gmsh mesh file
+-├── square_lamina_0.1.xml               # FEniCS XML mesh file
+-└── README.md                           # Project documentation
 
 ---
 
